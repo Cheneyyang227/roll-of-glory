@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Godot generated cache
+roll_of_glory/.godot/
+
+# Blender temporary backup files
+*.blend1
+*.blend2
+*.blend@
+*.blend~
+
+
